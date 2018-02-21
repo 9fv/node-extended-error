@@ -27,11 +27,6 @@ class CustomError extends ExtendedError {
 
 throw new CustomError('an error') // throw an error of custom type.
 ```
-
-* [extended-error](#module_extended-error)
-    * [~ExtendedError](#module_extended-error..ExtendedError)
-        * [new ExtendedError(...args)](#new_module_extended-error..ExtendedError_new)
-
 <a name="module_extended-error..ExtendedError"></a>
 
 #### extended-error~ExtendedError
@@ -40,16 +35,6 @@ A base class for extended errors.
 **Kind**: inner class of [<code>extended-error</code>](#module_extended-error)  
 **Category**: error  
 **Access**: public  
-<a name="new_module_extended-error..ExtendedError_new"></a>
-
-##### new ExtendedError(...args)
-Create a new instance of {ExtendedError}
-
-
-| Param | Description |
-| --- | --- |
-| ...args | The arguments. |
-
 ## <a name="license"> License
 
 >
@@ -78,6 +63,6 @@ Create a new instance of {ExtendedError}
 
 ***
 
-_Documentation generated on Wed, 21 Feb 2018 11:29:34 GMT_
+_Documentation generated on Wed, 21 Feb 2018 11:32:39 GMT_
 
 **Copyright &copy; 2018 [SAS 9 Février](https://9fevrier.com/)**

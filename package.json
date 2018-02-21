@@ -1,5 +1,5 @@
 {
-  "name": "extended-error",
+  "name": "@9fv.io/extended-error",
   "version": "1.0.0",
   "description": "An class to extend standard Javascript errors.",
   "main": "lib/extended-error.js",

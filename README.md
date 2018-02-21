@@ -1,7 +1,7 @@
-[npm-badge]: https://img.shields.io/npm/v/extended-error.svg
-[npm-badge-url]: https://www.npmjs.com/package/extended-error
-[npm-downloads-badge]: https://img.shields.io/npm/dt/extended-error.svg
-[npm-downloads-url]: https://npmjs.org/package/extended-error
+[npm-badge]: https://img.shields.io/npm/v/@9fv.io/extended-error.svg
+[npm-badge-url]: https://www.npmjs.com/package/@9fv.io/extended-error
+[npm-downloads-badge]: https://img.shields.io/npm/dt/@9fv.io/extended-error.svg
+[npm-downloads-url]: https://npmjs.org/package/@9fv.io/extended-error
 [travis-badge]: https://img.shields.io/travis/9fv/node-extended-error/master.svg?label=TravisCI
 [travis-badge-url]: https://travis-ci.org/9fv/node-extended-error
 [circle-badge]: https://circleci.com/gh/9fv/node-extended-error/tree/master.svg?style=svg&circle-token=
@@ -12,7 +12,7 @@
 [codeclimate-badge-url]: https://codeclimate.com/github/9fv/node-extended-error
 [ember-observer-badge]: http://emberobserver.com/badges/node-extended-error.svg
 [ember-observer-badge-url]: http://emberobserver.com/addons/node-extended-error
-[license-badge]: https://img.shields.io/npm/l/extended-error.svg
+[license-badge]: https://img.shields.io/npm/l/@9fv.io/extended-error.svg
 [license-badge-url]: LICENSE.md
 [dependencies-badge]: https://img.shields.io/david/9fv/node-extended-error.svg
 [dependencies-badge-url]: https://david-dm.org/9fv/node-extended-error
@@ -74,7 +74,7 @@ An class to extend standard Javascript errors.
 
 ## <a name="installation"> Installation
 
-    npm install extended-error
+    npm install @9fv.io/extended-error
 
 ## <a name="api-reference"> API Reference
 
